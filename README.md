@@ -14,8 +14,3 @@ Index dates using date_range() method, sort, check for None value and convert to
 
 5. Fetching api data 
 Create function for a button which fetches PHE data and wrangles it using def access_api () and def api_button_callback()
-
-
-6. Interatcive timeseries
-Create plot with  drop down menu for ventillation and hospital admisisons using def timeseriesgraph() and .dropdown() method
-Refresh graph to display changes between ventilator and hospital admission timeseries use def refresh_graph()
